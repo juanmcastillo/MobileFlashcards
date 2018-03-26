@@ -1,6 +1,6 @@
 ## React Native: Mobile Flashcards Project
 
-This is the Readable project for the final step of the Udacity's React Native course.
+This is the Mobile Flashcards project for the final step of the Udacity's React Native course.
 
 Follow the instructions bellow to run this project locally on your machine.
 
@@ -16,7 +16,7 @@ To run the project on your local environment using an android device, follow the
 2. Change directory: cd MobileFlashcards
 3. Type: yarn install
 4. When completed, type: yarn start
-5. When prompted for an input by expo, type 'a' for to start the App on the Android Emulator,
+5. When prompted for an input by expo, type 'a' for to start the App on the Android Emulator, 
    or scan the QR code with an Android device using the Expo app.
 
 ### Notes
